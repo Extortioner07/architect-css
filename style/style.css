@@ -63,12 +63,12 @@ nav li{
     font-size: 1rem;
 }
 nav li a{
-    text-decoration: underline rgb(0, 174, 255);
+    text-decoration: none;
     color: rgb(218, 218, 218);
     transition: 300ms;
 }
 nav li a:hover{
-    text-decoration: rgb(51, 188, 252);;
+    text-decoration: underline rgb(51, 188, 252);
 }
 /* banner styles */
 .banner-content{
